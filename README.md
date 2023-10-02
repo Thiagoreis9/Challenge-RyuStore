@@ -1,62 +1,61 @@
 ![image](https://user-images.githubusercontent.com/40845824/121069742-3accdb00-c7a4-11eb-87d0-3dc47e433762.png)
 
+> This repository aims to store my soluction from the code challenger by Rocketseat, using NextJS, React and fetching a graphQL API.
+
 
 # 🚀 Front end challenge
 
-Bem-vindo(a). Este é o desafio Front end!
+Welcome. This is the Front-end challenge!
 
-O objetivo deste desafio é avaliar suas habilidades de programação.
-Quando sua solução estiver pronta, basta responder o e-mail que recebeu com o link do seu repo aqui no Github!
-Em seguida, enviaremos o feedback e as instruções dos próximos passos!
+The purpose of this challenge is to assess your programming skills.
+When your solution is ready, just reply to the email you received with the link to your repo here on Github!
+We will then send you feedback and instructions for next steps!
 
-Caso tenha alguma dúvida, nós estamos disponíveis no email *recrutamento@rocketseat.com.br*
-Bom desafio!
+If you have any questions, we are available by email *recrutamento@rocketseat.com.br*
+Good challenge!
 
-> ⚠️ **É importante que o seu repo esteja público, caso contrário não iremos conseguir avaliar sua resposta**
+> ⚠️ **It is important that your repo is public, otherwise we will not be able to evaluate your response*
 
-# 🧠 Contexto
+# 🧠 Context
 
 ![Protótipo](https://storage.googleapis.com/xesque-dev/challenge-images/prototipo.png?42)
 
-O desafio será implementar um e-commerce para venda de canecas e camisetas que deverá ter as seguintes funcionalidades:
-- [ ] Catálogo de produtos com paginação
-- [ ] Filtragem produtos por categoria
-- [ ] Busca por nome do produto
-- [ ] Adicionar e remover produtos do carrinho
-- [ ] Finalizar compra
+The challenge will be to implement an e-commerce for selling mugs and t-shirts that should have the following functionalities:
+- [ ] Product catalog with pagination
+- [ ] Filtering products by category
+- [ ] Search by product name
+- [ ] Add and remove products from cart
+- [ ] Complete purchase
+## 📋 Instructions
 
-## 📋 Instruções
+The time has come to get your hands dirty!
 
-Chegou a hora de colocar a mão na massa!
+- Follow [this prototype](https://www.figma.com/file/rET9F2CeUEJdiVN7JRu993/E-commerce---capputeeno?node-id=680%3A6449)
+- Use Next.js and Typescript
+- Style with styled-components
+- Use local storage to manage the cart
+- Please include project installation instructions in the README
+- Feel free to include any comments
+- Consume our **GraphQL API** by running the `yarn start` command in the `api` folder
 
-- Siga [esse protótipo](https://www.figma.com/file/rET9F2CeUEJdiVN7JRu993/E-commerce---capputeeno?node-id=680%3A6449)
-- Utilize Next.js e Typescript
-- Faça a estilização com styled-components
-- Utilize o local storage para gerenciar o carrinho
-- Por favor, inclua no README as instruções de instalação do projeto
-- Sinta-se livre para incluir quaisquer observações
-- Consuma nossa **API GraphQL** rodando o comando `yarn start` na pasta `api`
+## ✔️ Rating criteria
 
-## ✔️ Critérios de Avaliação
+In addition to the requirements raised above, we will look at the following criteria when fixing the challenge:
 
-Além dos requisitos levantados acima, iremos olhar para os seguintes critérios durante a correção do desafio:
+- State management
+- Componentization
+- Responsiveness
+- Concern with usability
+- Concern about accessibility
+- e2e tests
+- Code standards
+- Commit pattern (_Conventional_)
 
-- Gerenciamento de estado
-- Componentização
-- Responsividade
-- Preocupação com usabilidade
-- Preocupação com acessibilidade
-- Testes e2e
-- Padrões de código
-- Padrão de commits (_Conventional_)
-
-## 😎 Seria legal
-- Fazer deploy na vercel ou em outro local de sua preferência e disponibilizar um link de visualização, se necessário utilize esse servidor para a API GraphQL:  https://rocketseat-frontend-challenge.herokuapp.com/
-- Testes unitários
-- Utilização de cache do Next.js
+## 😎 It would be nice
+- Deploy to vercel or another location of your choice and provide a preview link, if necessary use this server for the GraphQL API: https://rocketseat-frontend-challenge.herokuapp.com/
+- Unitary tests
+- Next.js cache usage
 
 ---
-
-_O desafio acima foi cuidadosamente construído para propósitos de avaliação apenas. Já possuimos uma funcionalidade similar na nossa plataforma._
 
 Made with 💜 at Rocketseat
